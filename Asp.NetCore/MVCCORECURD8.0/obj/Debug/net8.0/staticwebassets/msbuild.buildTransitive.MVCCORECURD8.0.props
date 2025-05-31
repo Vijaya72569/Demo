@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\buildMultiTargeting\MVCCORECURD8.0.props" />
-</Project>
