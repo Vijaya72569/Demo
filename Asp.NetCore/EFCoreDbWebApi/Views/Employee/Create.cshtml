@@ -1,0 +1,58 @@
+﻿@*<html>
+    <body>
+        <h1>Web-Api-Get</h1>
+<form>
+    Search:<input type="text" id="txt1" placeholder="Search" />
+    <input type="submit"id="button1" value="Search" />
+    <table id="table1" bordr="1"></table>
+</form>
+<script src="~/lib/jquery/dist/jquery.min.js"></script>
+<script>
+    $("#button1").click(fun1);
+    function fun1(event) {
+        event.preventDefault();
+            $.ajax({ url: "/api/EmpWeb?str=" +$("#txt1").val(), type: "GET", success: fun2, Error: fun3 });
+    }
+    function fun2(response) {
+        $("#table1").html("<tr><th>EmpId</th><th>Ename</th><th>Email</th><th>Adrress</th></tr>");
+        for(var i=0;response.length;i++) {
+            $("#table1").append("<tr><td>"+response[i].empId +"</td><td>"+response[i].ename +"</td><td>"+response[i].email+"</td><td>"+response[i].address+"</td></tr>");
+        }
+    }
+          
+    function fun3(xhr) {
+        alert(xhr.responseText);
+    }    
+</script>
+    </body>
+</html>*@
+
+<html>
+<body>
+    <h1>Web-Api-Search</h1>
+    <form>
+        Search:<input type="text" id="txt1" placeholder="Search" />
+        <input type="submit" id="button1"value="Search" />
+        <table id="table1" border="1"></table>
+    </form>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script>
+        $("#button1").click(fun1);
+        function fun1(event) {
+            event.preventDefault();
+            $.ajax({ url: "/api/EmpWeb?str="+$("#txt1").val(),type:"GET",success:fun2,error:fun3 });
+        }
+        function fun2(response) {
+            $("#table1").html("<tr><th>empId</th><th>ename</th><th>email</th><th>adrress</th></tr>");
+            for (var i=0;i<response.length;i++) {
+                $("#table1").append("<tr><td>"+response[i].empId+"</td><td>"+response[i].ename+"</td><td>"+response[i].email+"</td><td>"+response[i].address +"</td></tr>");
+            }
+        }
+
+        function fun3(xhr) {
+            alert(xhr.responseText);
+        }
+    </script>
+</body>
+</html>
+

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\EFCURDCORE8.props" />
+</Project>

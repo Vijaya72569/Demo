@@ -1,0 +1,27 @@
+﻿@model WebApplication10.Models.Login
+<html>
+    <head>
+        <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.css" />
+    </head>
+    <body>
+        <h1>Login</h1>
+        <form asp-controller="Login"asp-action="LoginCheck"method="post">
+            <table>
+                <tr>
+                    <td><lable asp-for="Username"></lable></td>
+                    <td><input asp-for="Username" /></td>
+                    <td><span asp-validation-for="Username"></span></td>
+                </tr>
+            <tr>
+                <td><lable asp-for="Password"></lable></td>
+                <td><input asp-for="Password" /></td>
+                <td><span asp-validation-for="Password"></span></td>
+            </tr>
+            <tr>
+                <td><button type="submit" class="btn btn-primary btn-lg">Login</button></td>
+            </tr>
+            </table>
+        </form>
+        <span>@ViewBag.msg</span>
+    </body>
+</html>

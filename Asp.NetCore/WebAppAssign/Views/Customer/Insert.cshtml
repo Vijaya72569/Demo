@@ -1,0 +1,56 @@
+﻿@model WebAppAssign.Models.CustomerModel
+<html>
+<head>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.css" />
+</head>
+<body>
+    <h1>Register</h1>
+    <form asp-controller="Customer" asp-action="Insert" method="post">
+        <table>
+            <tr>
+                <td><label asp-for="Username"></label></td>
+                <td><input asp-for="Username" /></td>
+                <td><span asp-validation-for="Username"></span></td>
+            </tr>
+            <tr>
+                <td><label asp-for="Password"></label></td>
+                <td><input asp-for="Password" /></td>
+                <td><span asp-validation-for="Password"></span></td>
+            </tr>
+
+            <tr>
+                <td><label asp-for="City"></label></td>
+                <td>
+                    <select asp-for="City" asp-items="Model.cities"></select>
+                </td>
+            </tr>
+            <tr>
+                <td><label asp-for="Gender"></label></td>
+                <td>
+                    <input type="radio" value="Male" asp-for="Gender" />Male
+                    <input type="radio" value="Female" asp-for="Gender" />Female
+                </td>
+            </tr>
+            <tr>
+                <td><lable>Hobbies</lable></td>
+                <td>
+                  @* <input type="checkbox" name="ck1" value="Music" false />Music
+                    <input type="checkbox" name="ck2" value="Crafts" false />Crafts
+                    <input type="checkbox" name="ck3" value="Reading" false />Reading
+                    <select asp-for="City" asp-items="Model.hobby"></select>*@
+                    @foreach (var hobby in Model.Hobbies)
+                    {
+                        <input type="checkbox" name="SelectedHobbies" value="@hobby.Value" /> @hobby.Text <br />
+                    }
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <button type="submit" class="btn btn-success btn-sm">Save</button>
+                </td>
+            </tr>
+        </table>
+        
+    </form>
+</body>
+</html>

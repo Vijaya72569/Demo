@@ -1,0 +1,32 @@
+﻿@model WebApplication5.Models.LogModel
+<html>
+    <head>
+    </head>
+    <body>
+        <form asp-controller="Login" asp-action="login" method="post">
+            <table>
+                <tr>   
+                    <td> <label asp-for="Email"></label> </td>
+                    <td><input asp-for="Email"/></td>
+                    <td><span asp-validation-for="Email"></span></td>
+                    <td></td>
+                </tr>
+            <tr>
+                <td> <label asp-for="Password"></label> </td>
+                <td><input asp-for="Password" /></td>
+                <td><span asp-validation-for="Password"></span></td>
+                <td></td>
+            </tr>
+            
+            <tr>
+                <td><input asp-for="RememberMe" /></td>
+                <td> <label asp-for="RememberMe"></label></td>           
+            </tr>
+            <tr>
+                <td><input type="submit" value="Login"/></td>
+                <td> <input type="reset" value="Clear"/> </td>
+            </tr>
+            </table>
+        </form>
+    </body>
+</html>

@@ -1,0 +1,42 @@
+﻿@model WebApplication6.Models.RegModel
+<html>
+    <head>
+       
+    </head>
+<body>
+    <form asp-controller="Register" asp-action="register" method="post"></form>
+    <table>
+        <tr>
+            <td><label asp-for="Username"></label> </td>
+            <td><input asp-for="Username"/> </td>
+            <td><span asp-validation-for="Username"></span></td>
+        </tr>
+        <tr>
+            <td><label asp-for="Password"></label> </td>
+            <td><input asp-for="Password" /> </td>
+            <td><span asp-validation-for="Password"></span></td>
+        </tr>
+        <tr>
+            <td><label asp-for="Gender"></label></td>
+            <td>
+                <input type="radio" value="Male" name="rb" asp-for="Gender"/>Male
+                <input type="radio" value="FeMale" name="rb" asp-for="Gender" />FeMale              
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <label asp-for="City"></label>
+            </td>
+            <td><select name="list1" asp-for="City" asp-items="Model.Cities"></select> </td>
+        </tr>
+        <tr>
+            <td><button type="submit"asp-action="Success">Submit</button></td>
+        </tr>
+    </table>
+</body>
+</html>
+@section Scripts{
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

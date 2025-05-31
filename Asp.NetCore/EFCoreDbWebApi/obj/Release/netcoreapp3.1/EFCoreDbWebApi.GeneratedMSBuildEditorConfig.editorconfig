@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = EFCoreDbWebApi
+build_property.ProjectDir = D:\Asp.NetCore\EFCoreDbWebApi\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

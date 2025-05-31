@@ -1,0 +1,36 @@
+﻿@model WebAppCoreCURD.Models.EmpModel
+<html>
+<head>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.css" />
+</head>
+<body>
+    <form asp-controller="Employee" asp-action="EditEmp" method="post">
+        <table>
+            <tr>
+                <td><label asp-for="Empid"></label></td>
+                <td><input asp-for=Empid readonly="true"/></td>
+                <td><span asp-validation-for="Empid"></span></td>
+            </tr>
+            <tr>
+                <td><label asp-for="Ename"></label></td>
+                <td><input asp-for=Ename /></td>
+                <td><span asp-validation-for="Ename"></span></td>
+            </tr>
+            <tr>
+                <td><label asp-for="Email"></label></td>
+                <td><input asp-for=Email /></td>
+                <td><span asp-validation-for="Email"></span></td>
+            </tr>
+            <tr>
+                <td><label asp-for="City"></label></td>
+                <td><input asp-for=City /></td>
+                <td><span asp-validation-for="City"></span></td>
+            </tr>
+            <tr>
+                <td><button type="submit" class="btn btn-success btn-sm">Save</button> </td>
+            </tr>
+        </table>
+        <span> @ViewBag.msg</span>
+    </form>
+</body>
+</html>

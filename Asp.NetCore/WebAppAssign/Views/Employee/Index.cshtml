@@ -1,0 +1,45 @@
+﻿@model WebAppAssign.Models.Emp
+<html>
+    <head>
+       <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.css" />
+    
+    </head>
+    <body>
+        <form asp-controller="Employee"asp-action="Index"method="post">
+            <table>
+                <tr>
+                    <td><label asp-for="Eno"></label></td>
+                    <td><input asp-for="Eno" /></td>
+                    <td><span asp-validation-for="Eno"></span></td>
+                </tr>
+            <tr>
+                <td><label asp-for="Ename"></label></td>
+                <td><input asp-for="Ename" /></td>
+                <td><span asp-validation-for="Ename"></span></td>
+            </tr>
+            <tr>
+                <td><label asp-for="Job"></label></td>
+                <td><input asp-for="Job" /></td>
+                <td><span asp-validation-for="Job"></span></td>
+            </tr>
+            <tr>
+                <td><label asp-for="Sal"></label></td>
+                <td><input asp-for="Sal" /></td>
+                <td><span asp-validation-for="Sal"></span></td>
+            </tr>
+            <tr>
+                <td><label asp-for="Commision"></label></td>
+                <td><input asp-for="Commision" /></td>
+                <td><span asp-validation-for="Commision"></span></td>
+            </tr>
+            <tr>    
+                <td><label asp-for="TotalSal"></label></td>
+                <td><label>@Model.TotalSal</label></td>
+            </tr>
+            <tr>
+                <td><button type="submit" class="btn btn-success btn-lg">Show</button></td>
+            </tr>
+            </table>
+        </form>
+    </body>
+</html>
