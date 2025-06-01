@@ -1,0 +1,61 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@model List<Product>
+<h2>Product Management</h2>
+<form method="post" action="/Product/Create">
+    <input type="number" name="Pid" placeholder="ProductId" /> <br />
+    <input type="text" name="Pname" placeholder="Product name" /> <br />
+    <input type="number" name="Price" placeholder="Product Price" /><br />
+    <button type="submit">AddProduct</button>
+</form>
+<table border="1">
+    <thead>
+        <tr>
+            <th>Product Id</th>
+            <th>Product Name</th>
+            <th>Product Price</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @if(Model!=null &&Model.Count>0)
+        {
+            @foreach(var product in Model)
+            {
+                <tr>
+                    <form method="post" action="/Product/Update">
+                        <td>
+                        <input type="number" name="Pid" value="@product.Pid" readonly />
+                        </td>
+                    <td> 
+                        <input type="text" name="Pname" value="@product.Pname" />
+                        </td>
+                    <td>
+                        <input type="number" name="Price" value="@product.Price" />
+                    </td>
+                    <td>
+                         <button type="submit">UpdateDetails</button>    
+                    </td>
+                    </form>
+                    <td>
+                        <form method="post" action="/Product/Delete">
+                         <input type="number" name="Pid" value="@product.Pid" readonly />
+                            <button type="submit">Delete</button>
+                        </form>
+                    </td>
+                </tr>
+            }
+        }
+        else
+        {
+            <tr>
+                <td colspan="4"> No Products Available
+
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

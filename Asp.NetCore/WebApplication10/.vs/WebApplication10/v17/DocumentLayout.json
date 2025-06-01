@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Asp.NetCore\\WebApplication10\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9A71105B-19CD-495F-90FF-4C9D76A1504A}|WebApplication10.csproj|d:\\asp.netcore\\webapplication10\\models\\loginrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A71105B-19CD-495F-90FF-4C9D76A1504A}|WebApplication10.csproj|solutionrelative:models\\loginrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A71105B-19CD-495F-90FF-4C9D76A1504A}|WebApplication10.csproj|d:\\asp.netcore\\webapplication10\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A71105B-19CD-495F-90FF-4C9D76A1504A}|WebApplication10.csproj|solutionrelative:controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A71105B-19CD-495F-90FF-4C9D76A1504A}|WebApplication10.csproj|d:\\asp.netcore\\webapplication10\\views\\login\\logincheck.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9A71105B-19CD-495F-90FF-4C9D76A1504A}|WebApplication10.csproj|solutionrelative:views\\login\\logincheck.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A71105B-19CD-495F-90FF-4C9D76A1504A}|WebApplication10.csproj|d:\\asp.netcore\\webapplication10\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9A71105B-19CD-495F-90FF-4C9D76A1504A}|WebApplication10.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A71105B-19CD-495F-90FF-4C9D76A1504A}|WebApplication10.csproj|d:\\asp.netcore\\webapplication10\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A71105B-19CD-495F-90FF-4C9D76A1504A}|WebApplication10.csproj|solutionrelative:startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A71105B-19CD-495F-90FF-4C9D76A1504A}|WebApplication10.csproj|d:\\asp.netcore\\webapplication10\\views\\login\\success.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9A71105B-19CD-495F-90FF-4C9D76A1504A}|WebApplication10.csproj|solutionrelative:views\\login\\success.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A71105B-19CD-495F-90FF-4C9D76A1504A}|WebApplication10.csproj|d:\\asp.netcore\\webapplication10\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A71105B-19CD-495F-90FF-4C9D76A1504A}|WebApplication10.csproj|solutionrelative:models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "D:\\Asp.NetCore\\WebApplication10\\Startup.cs",
+              "RelativeDocumentMoniker": "Startup.cs",
+              "ToolTip": "D:\\Asp.NetCore\\WebApplication10\\Startup.cs",
+              "RelativeToolTip": "Startup.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAYwDQAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T16:47:08.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Success.cshtml",
+              "DocumentMoniker": "D:\\Asp.NetCore\\WebApplication10\\Views\\Login\\Success.cshtml",
+              "RelativeDocumentMoniker": "Views\\Login\\Success.cshtml",
+              "ToolTip": "D:\\Asp.NetCore\\WebApplication10\\Views\\Login\\Success.cshtml",
+              "RelativeToolTip": "Views\\Login\\Success.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-30T16:43:05.372Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginCheck.cshtml",
+              "DocumentMoniker": "D:\\Asp.NetCore\\WebApplication10\\Views\\Login\\LoginCheck.cshtml",
+              "RelativeDocumentMoniker": "Views\\Login\\LoginCheck.cshtml",
+              "ToolTip": "D:\\Asp.NetCore\\WebApplication10\\Views\\Login\\LoginCheck.cshtml",
+              "RelativeToolTip": "Views\\Login\\LoginCheck.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-30T16:32:25.228Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "D:\\Asp.NetCore\\WebApplication10\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "Controllers\\LoginController.cs",
+              "ToolTip": "D:\\Asp.NetCore\\WebApplication10\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "Controllers\\LoginController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwBgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T16:22:43.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginRepository.cs",
+              "DocumentMoniker": "D:\\Asp.NetCore\\WebApplication10\\Models\\LoginRepository.cs",
+              "RelativeDocumentMoniker": "Models\\LoginRepository.cs",
+              "ToolTip": "D:\\Asp.NetCore\\WebApplication10\\Models\\LoginRepository.cs",
+              "RelativeToolTip": "Models\\LoginRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwBMAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T16:05:52.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Login.cs",
+              "DocumentMoniker": "D:\\Asp.NetCore\\WebApplication10\\Models\\Login.cs",
+              "RelativeDocumentMoniker": "Models\\Login.cs",
+              "ToolTip": "D:\\Asp.NetCore\\WebApplication10\\Models\\Login.cs",
+              "RelativeToolTip": "Models\\Login.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T16:02:04.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Asp.NetCore\\WebApplication10\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\Asp.NetCore\\WebApplication10\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-30T15:49:57.946Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

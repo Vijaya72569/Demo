@@ -1,0 +1,154 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Asp.NetCore\\MvcCoreCurd\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4722F9C3-679E-4E62-8CD9-44BDDAF2856D}|MvcCoreCurd.csproj|d:\\asp.netcore\\mvccorecurd\\models\\emprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4722F9C3-679E-4E62-8CD9-44BDDAF2856D}|MvcCoreCurd.csproj|solutionrelative:models\\emprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4722F9C3-679E-4E62-8CD9-44BDDAF2856D}|MvcCoreCurd.csproj|d:\\asp.netcore\\mvccorecurd\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4722F9C3-679E-4E62-8CD9-44BDDAF2856D}|MvcCoreCurd.csproj|solutionrelative:controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4722F9C3-679E-4E62-8CD9-44BDDAF2856D}|MvcCoreCurd.csproj|d:\\asp.netcore\\mvccorecurd\\models\\employeeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4722F9C3-679E-4E62-8CD9-44BDDAF2856D}|MvcCoreCurd.csproj|solutionrelative:models\\employeeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4722F9C3-679E-4E62-8CD9-44BDDAF2856D}|MvcCoreCurd.csproj|d:\\asp.netcore\\mvccorecurd\\models\\empmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4722F9C3-679E-4E62-8CD9-44BDDAF2856D}|MvcCoreCurd.csproj|solutionrelative:models\\empmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4722F9C3-679E-4E62-8CD9-44BDDAF2856D}|MvcCoreCurd.csproj|d:\\asp.netcore\\mvccorecurd\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4722F9C3-679E-4E62-8CD9-44BDDAF2856D}|MvcCoreCurd.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4722F9C3-679E-4E62-8CD9-44BDDAF2856D}|MvcCoreCurd.csproj|d:\\asp.netcore\\mvccorecurd\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4722F9C3-679E-4E62-8CD9-44BDDAF2856D}|MvcCoreCurd.csproj|solutionrelative:views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4722F9C3-679E-4E62-8CD9-44BDDAF2856D}|MvcCoreCurd.csproj|d:\\asp.netcore\\mvccorecurd\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4722F9C3-679E-4E62-8CD9-44BDDAF2856D}|MvcCoreCurd.csproj|solutionrelative:startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4722F9C3-679E-4E62-8CD9-44BDDAF2856D}|MvcCoreCurd.csproj|d:\\asp.netcore\\mvccorecurd\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4722F9C3-679E-4E62-8CD9-44BDDAF2856D}|MvcCoreCurd.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmpRepository.cs",
+              "DocumentMoniker": "D:\\Asp.NetCore\\MvcCoreCurd\\Models\\EmpRepository.cs",
+              "RelativeDocumentMoniker": "Models\\EmpRepository.cs",
+              "ToolTip": "D:\\Asp.NetCore\\MvcCoreCurd\\Models\\EmpRepository.cs",
+              "RelativeToolTip": "Models\\EmpRepository.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAGAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T06:33:26.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeViewModel.cs",
+              "DocumentMoniker": "D:\\Asp.NetCore\\MvcCoreCurd\\Models\\EmployeeViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\EmployeeViewModel.cs",
+              "ToolTip": "D:\\Asp.NetCore\\MvcCoreCurd\\Models\\EmployeeViewModel.cs",
+              "RelativeToolTip": "Models\\EmployeeViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T16:41:34.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmpModel.cs",
+              "DocumentMoniker": "D:\\Asp.NetCore\\MvcCoreCurd\\Models\\EmpModel.cs",
+              "RelativeDocumentMoniker": "Models\\EmpModel.cs",
+              "ToolTip": "D:\\Asp.NetCore\\MvcCoreCurd\\Models\\EmpModel.cs",
+              "RelativeToolTip": "Models\\EmpModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T06:20:27.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Asp.NetCore\\MvcCoreCurd\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\Asp.NetCore\\MvcCoreCurd\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-12T06:16:04.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "D:\\Asp.NetCore\\MvcCoreCurd\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EmployeeController.cs",
+              "ToolTip": "D:\\Asp.NetCore\\MvcCoreCurd\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAACMAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T06:58:10.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Asp.NetCore\\MvcCoreCurd\\Views\\Employee\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Employee\\Index.cshtml",
+              "ToolTip": "D:\\Asp.NetCore\\MvcCoreCurd\\Views\\Employee\\Index.cshtml",
+              "RelativeToolTip": "Views\\Employee\\Index.cshtml",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAAAGoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-12T09:17:54.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "D:\\Asp.NetCore\\MvcCoreCurd\\Startup.cs",
+              "RelativeDocumentMoniker": "Startup.cs",
+              "ToolTip": "D:\\Asp.NetCore\\MvcCoreCurd\\Startup.cs",
+              "RelativeToolTip": "Startup.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAACgAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T09:45:55.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Asp.NetCore\\MvcCoreCurd\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Asp.NetCore\\MvcCoreCurd\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAABgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T10:19:22.821Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

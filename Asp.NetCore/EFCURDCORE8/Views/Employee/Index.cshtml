@@ -1,0 +1,59 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@model List<EFCURDCORE8.Models.EmpModel>
+@{
+    var editemp = ViewBag.EditEmp as EFCURDCORE8.Models.EmpModel;
+}
+<h1>Employee Management</h1>
+<form method="post" action="@(editemp !=null ? "/Employee/Edit":"/Employee/Create")">
+<input type="number" name="Eid" value="@(editemp?.Eid ?? 0)" @(editemp!=null ? "readonly" :"") /> <br />
+<input type="text" name="Ename" value="@(editemp?.Ename?? "")" /> <br />
+<input type="number" name="Salary" value="@(editemp?.Salary?? 0)" /> <br /> <br />
+<button type="submit">@(editemp!=null ? "Update":"Create")</button> 
+
+</form>
+<hr />
+<table border="1">
+    <thead>
+        <tr>
+            <th>Eid</th>
+            <th>Ename</th>
+            <th>Salary</th>
+            <th colspan="2"> Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @if(Model!=null && Model.Count > 0)
+        {
+            foreach(var emp in Model)
+            {
+                <tr>
+                    <td>@emp.Eid</td>
+                      <td>@emp.Ename</td>
+                    <td>@emp.Salary</td>
+                    <td>
+                        <form method="get" action="/Employee/Index">
+                            <input type="hidden" name="id" value="@(emp.Eid)" />
+                            <button type="submit">Edit</button>
+                                
+                        </form>
+                    </td>
+                    <td>
+                        <form method="post" action="/Employee/Delete">
+                            <input type="hidden" name="id" value="@(emp.Eid)" />
+                            <button type="submit">Delete</button>
+
+                        </form>
+                    </td>
+                </tr>
+            } 
+        }
+        else
+        {
+            <tr>
+                <td colspan="5">No Records Available</td>
+            </tr>
+        }
+    </tbody>
+</table>

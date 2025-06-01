@@ -1,0 +1,47 @@
+﻿@model IEnumerable<WebAppCoreCURD.Models.EmpModel>
+<html>
+    <head>
+        <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.css" />
+    </head>
+    <body> 
+<h2>GetAllEmployee</h2>
+<p>
+    <a asp-action="Insert">Create New</a>
+</p>
+<table border="1">
+    <tr>
+         <th>Empid</th>
+         <th>Ename</th>
+         <th>Email</th>
+         <th>City</th>
+         <th>Action</th>
+        </tr> 
+        @foreach(var s in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(n => s.Empid)
+                </td>
+            <td>
+                    @Html.DisplayFor(n => s.Ename)
+            </td>
+            <td>
+                    @Html.DisplayFor(n => s.Email)
+            </td>
+            <td>
+                    @Html.DisplayFor(n => s.City)
+            </td>
+            <td>
+                @Html.ActionLink("Edit","EditEmp",new {id =s.Empid})|
+                    @Html.ActionLink("Delete", "DeleteEmp", new { id = s.Empid },
+                    new { onclick = "return confirm('Are You Sure Delete?');"})
+            </td>      
+    </tr>
+        }
+</table>
+</body>
+</html>
+     
+
+
+

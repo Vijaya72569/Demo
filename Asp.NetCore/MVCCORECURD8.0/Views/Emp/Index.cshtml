@@ -1,0 +1,62 @@
+﻿@model MVCCORECURD8._0.Models.EmpModel
+<form asp-controller="Emp" asp-action="Index" method="post">
+    <table>
+        <tr>
+            <td><label asp-for="Eid"></label></td>
+            <td><input asp-for="Eid" readonly="@(Model.Eid>0)" placeholder="New Id" /></td>
+           @*  <td><span class="text-danger" asp-validation-for="Eid"></span></td> *@
+        </tr>
+        <tr>
+            <td><label asp-for="Ename"></label></td>
+            <td><input asp-for="Ename" /></td>
+           @*  <td><span class="text-danger" asp-validation-for="Ename"></span> </td> *@
+        </tr>
+        <tr>
+            <td><label asp-for="Salary"></label></td>
+            <td><input asp-for="Salary" /></td>
+          @*   <td><span class="text-danger" asp-validation-for="Salary"></span> </td> *@
+        </tr>    
+
+        <tr>
+            <td><input type="submit" value="Save" name="str" /></td>
+            <td><input type="submit" value="Update" name="str" /></td>
+        </tr>
+    </table>
+</form>
+
+
+@if (ViewBag.EmpList != null)
+{
+    var employeeList = ViewBag.EmpList as List<MVCCORECURD8._0.Models.EmpModel>;
+    if (employeeList != null)
+    {
+        <table border="1">
+            <tr>
+                <th> Eid</th>
+                <th> Ename</th>
+                <th> Salary</th>
+                <th> Actions</th>
+            </tr>
+            @foreach (var item in employeeList)
+            {
+                <tr>
+                    <td>@item.Eid</td>
+                    <td>@item.Ename</td>
+                    <td>@item.Salary</td>
+                    <td>
+                        @Html.ActionLink("Edit", "Index", new { id = item.Eid }) |
+                        @Html.ActionLink("Delete", "Delete", new { id = item.Eid }, new { onclick = "return confirm('Are you sure delete?');" })
+                    </td>
+                </tr>
+            }
+        </table>
+    }
+    else
+    {
+        <p>No employees found.</p>
+    }
+}
+else
+{
+    <p>Employee list not available.</p>
+}

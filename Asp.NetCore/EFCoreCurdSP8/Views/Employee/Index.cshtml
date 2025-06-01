@@ -1,0 +1,47 @@
+﻿@model List<EFCoreCurdSP8.Models.Employee>
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    var Edit = ViewBag.EditId as EFCoreCurdSP8.Models.Employee;
+}
+<h2> Employee CURD</h2>
+<form asp-action="Save" method="post">
+    <input type="hidden" name="Id" value="@Edit.Id" /> <br />
+    <label>Name</label> 
+    <input type="text" name="Name" value="@Edit.Name" /> <br>
+    <label>Salary</label>
+    <input type="number" name="Salary" value="@Edit.Salary" /> <br>
+    <button type="submit">@((Edit.Id ==0) ? "Add":"Update")</button>
+    @if (Edit.Id!=0){
+        <a href="@Url.Action("Index")" >Cancel</a>
+    }
+</form>
+<hr />
+<table border="1">
+    <thead>
+    <tr>
+        <th>ID</th>
+         <th>Name</th>
+        <th>Salary</th>
+        <th>Actions</th>
+    </tr>
+    </thead>
+    <tbody>
+        @foreach(var emp in Model)
+        {
+            <tr>
+                <td>@emp.Id</td>
+                <td>@emp.Name</td>
+                <td>@emp.Salary</td>
+                <td>
+                    <a asp-action="Index" asp-route-editId="@emp.Id">Edit</a>
+                </td>
+                <td>
+                    <a asp-action="Delete" asp-route-id="@emp.Id" onclick="return confirm('Are you sure want to Delete?');">Delete</a>
+
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
