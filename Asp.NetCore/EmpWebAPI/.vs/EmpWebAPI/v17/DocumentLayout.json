@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Asp.NetCore\\EmpWebAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CB6B645E-6A3F-497C-BC20-74E8E06E7802}|EmpWebAPI.csproj|d:\\asp.netcore\\empwebapi\\controllers\\empcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB6B645E-6A3F-497C-BC20-74E8E06E7802}|EmpWebAPI.csproj|solutionrelative:controllers\\empcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB6B645E-6A3F-497C-BC20-74E8E06E7802}|EmpWebAPI.csproj|d:\\asp.netcore\\empwebapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CB6B645E-6A3F-497C-BC20-74E8E06E7802}|EmpWebAPI.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB6B645E-6A3F-497C-BC20-74E8E06E7802}|EmpWebAPI.csproj|d:\\asp.netcore\\empwebapi\\models\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB6B645E-6A3F-497C-BC20-74E8E06E7802}|EmpWebAPI.csproj|solutionrelative:models\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB6B645E-6A3F-497C-BC20-74E8E06E7802}|EmpWebAPI.csproj|d:\\asp.netcore\\empwebapi\\models\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB6B645E-6A3F-497C-BC20-74E8E06E7802}|EmpWebAPI.csproj|solutionrelative:models\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB6B645E-6A3F-497C-BC20-74E8E06E7802}|EmpWebAPI.csproj|d:\\asp.netcore\\empwebapi\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB6B645E-6A3F-497C-BC20-74E8E06E7802}|EmpWebAPI.csproj|solutionrelative:models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB6B645E-6A3F-497C-BC20-74E8E06E7802}|EmpWebAPI.csproj|d:\\asp.netcore\\empwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB6B645E-6A3F-497C-BC20-74E8E06E7802}|EmpWebAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Asp.NetCore\\EmpWebAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "D:\\Asp.NetCore\\EmpWebAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-07T10:45:57.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmpController.cs",
+              "DocumentMoniker": "D:\\Asp.NetCore\\EmpWebAPI\\Controllers\\EmpController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EmpController.cs",
+              "ToolTip": "D:\\Asp.NetCore\\EmpWebAPI\\Controllers\\EmpController.cs",
+              "RelativeToolTip": "Controllers\\EmpController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T05:55:49.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Asp.NetCore\\EmpWebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Asp.NetCore\\EmpWebAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T05:52:14.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "D:\\Asp.NetCore\\EmpWebAPI\\Models\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "Models\\EmployeeService.cs",
+              "ToolTip": "D:\\Asp.NetCore\\EmpWebAPI\\Models\\EmployeeService.cs",
+              "RelativeToolTip": "Models\\EmployeeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T05:46:58.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IEmployeeService.cs",
+              "DocumentMoniker": "D:\\Asp.NetCore\\EmpWebAPI\\Models\\IEmployeeService.cs",
+              "RelativeDocumentMoniker": "Models\\IEmployeeService.cs",
+              "ToolTip": "D:\\Asp.NetCore\\EmpWebAPI\\Models\\IEmployeeService.cs",
+              "RelativeToolTip": "Models\\IEmployeeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T05:45:57.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\Asp.NetCore\\EmpWebAPI\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "Models\\Employee.cs",
+              "ToolTip": "D:\\Asp.NetCore\\EmpWebAPI\\Models\\Employee.cs",
+              "RelativeToolTip": "Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T05:44:37.748Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

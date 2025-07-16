@@ -1,0 +1,56 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@model MvcCurdMultipage.Models.EmpModel;
+<form asp-action="Insert" method="post">
+    <table>
+        <tr>
+<td>
+    <label asp-for="Empid"></label>
+
+</td>
+<td>
+    <input asp-for="Empid"/>
+</td>
+
+</tr>
+        <tr>
+            <td>
+                <label asp-for="Ename"></label>
+
+            </td>
+            <td>
+                <input asp-for="Ename" />
+            </td>
+
+        </tr>
+        <tr>
+            <td>
+                <label asp-for="Email"></label>
+
+            </td>
+            <td>
+                <input asp-for="Email" />
+            </td>
+
+        </tr>
+        <tr>
+            <td>
+                <label asp-for="City"></label>
+
+            </td>
+            <td>
+                <input asp-for="City" />
+            </td>
+
+        </tr>
+        <tr>
+           <td>
+              <input type="submit" value="Save" />
+</td>
+</tr>
+    </table>
+
+</form>

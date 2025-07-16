@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "WGwY+g1UDkQLae8GsKzKf2MRGSsSCzzwIqmvjG5EtgU=",
+  "Source": "DbOrdersService",
+  "BasePath": "_content/DbOrdersService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Asp.NetCore\\CurdCoreMultipage\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{550F3A12-C8C8-4F7B-AD32-9F7F6B46414C}|CurdCoreMultipage.csproj|d:\\asp.netcore\\curdcoremultipage\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{550F3A12-C8C8-4F7B-AD32-9F7F6B46414C}|CurdCoreMultipage.csproj|solutionrelative:controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{550F3A12-C8C8-4F7B-AD32-9F7F6B46414C}|CurdCoreMultipage.csproj|d:\\asp.netcore\\curdcoremultipage\\views\\employee\\editemp.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{550F3A12-C8C8-4F7B-AD32-9F7F6B46414C}|CurdCoreMultipage.csproj|solutionrelative:views\\employee\\editemp.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{550F3A12-C8C8-4F7B-AD32-9F7F6B46414C}|CurdCoreMultipage.csproj|d:\\asp.netcore\\curdcoremultipage\\models\\emprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{550F3A12-C8C8-4F7B-AD32-9F7F6B46414C}|CurdCoreMultipage.csproj|solutionrelative:models\\emprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{550F3A12-C8C8-4F7B-AD32-9F7F6B46414C}|CurdCoreMultipage.csproj|d:\\asp.netcore\\curdcoremultipage\\views\\employee\\getallemp.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{550F3A12-C8C8-4F7B-AD32-9F7F6B46414C}|CurdCoreMultipage.csproj|solutionrelative:views\\employee\\getallemp.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{550F3A12-C8C8-4F7B-AD32-9F7F6B46414C}|CurdCoreMultipage.csproj|d:\\asp.netcore\\curdcoremultipage\\views\\employee\\insert.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{550F3A12-C8C8-4F7B-AD32-9F7F6B46414C}|CurdCoreMultipage.csproj|solutionrelative:views\\employee\\insert.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{550F3A12-C8C8-4F7B-AD32-9F7F6B46414C}|CurdCoreMultipage.csproj|d:\\asp.netcore\\curdcoremultipage\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{550F3A12-C8C8-4F7B-AD32-9F7F6B46414C}|CurdCoreMultipage.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{550F3A12-C8C8-4F7B-AD32-9F7F6B46414C}|CurdCoreMultipage.csproj|d:\\asp.netcore\\curdcoremultipage\\models\\empmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{550F3A12-C8C8-4F7B-AD32-9F7F6B46414C}|CurdCoreMultipage.csproj|solutionrelative:models\\empmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{550F3A12-C8C8-4F7B-AD32-9F7F6B46414C}|CurdCoreMultipage.csproj|d:\\asp.netcore\\curdcoremultipage\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{550F3A12-C8C8-4F7B-AD32-9F7F6B46414C}|CurdCoreMultipage.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{550F3A12-C8C8-4F7B-AD32-9F7F6B46414C}|CurdCoreMultipage.csproj|d:\\asp.netcore\\curdcoremultipage\\views\\employee\\getemp.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{550F3A12-C8C8-4F7B-AD32-9F7F6B46414C}|CurdCoreMultipage.csproj|solutionrelative:views\\employee\\getemp.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "D:\\Asp.NetCore\\CurdCoreMultipage\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EmployeeController.cs",
+              "ToolTip": "D:\\Asp.NetCore\\CurdCoreMultipage\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAAACoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T14:39:22.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Asp.NetCore\\CurdCoreMultipage\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\Asp.NetCore\\CurdCoreMultipage\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-05T14:28:14.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EditEmp.cshtml",
+              "DocumentMoniker": "D:\\Asp.NetCore\\CurdCoreMultipage\\Views\\Employee\\EditEmp.cshtml",
+              "RelativeDocumentMoniker": "Views\\Employee\\EditEmp.cshtml",
+              "ToolTip": "D:\\Asp.NetCore\\CurdCoreMultipage\\Views\\Employee\\EditEmp.cshtml",
+              "RelativeToolTip": "Views\\Employee\\EditEmp.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAmwDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-05T14:55:47.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Asp.NetCore\\CurdCoreMultipage\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Asp.NetCore\\CurdCoreMultipage\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T14:56:59.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Insert.cshtml",
+              "DocumentMoniker": "D:\\Asp.NetCore\\CurdCoreMultipage\\Views\\Employee\\Insert.cshtml",
+              "RelativeDocumentMoniker": "Views\\Employee\\Insert.cshtml",
+              "ToolTip": "D:\\Asp.NetCore\\CurdCoreMultipage\\Views\\Employee\\Insert.cshtml",
+              "RelativeToolTip": "Views\\Employee\\Insert.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-05T14:47:56.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GetAllEmp.cshtml",
+              "DocumentMoniker": "D:\\Asp.NetCore\\CurdCoreMultipage\\Views\\Employee\\GetAllEmp.cshtml",
+              "RelativeDocumentMoniker": "Views\\Employee\\GetAllEmp.cshtml",
+              "ToolTip": "D:\\Asp.NetCore\\CurdCoreMultipage\\Views\\Employee\\GetAllEmp.cshtml",
+              "RelativeToolTip": "Views\\Employee\\GetAllEmp.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-05T14:49:26.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmpRepository.cs",
+              "DocumentMoniker": "D:\\Asp.NetCore\\CurdCoreMultipage\\Models\\EmpRepository.cs",
+              "RelativeDocumentMoniker": "Models\\EmpRepository.cs",
+              "ToolTip": "D:\\Asp.NetCore\\CurdCoreMultipage\\Models\\EmpRepository.cs",
+              "RelativeToolTip": "Models\\EmpRepository.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAywEcAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T14:33:15.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EmpModel.cs",
+              "DocumentMoniker": "D:\\Asp.NetCore\\CurdCoreMultipage\\Models\\EmpModel.cs",
+              "RelativeDocumentMoniker": "Models\\EmpModel.cs",
+              "ToolTip": "D:\\Asp.NetCore\\CurdCoreMultipage\\Models\\EmpModel.cs",
+              "RelativeToolTip": "Models\\EmpModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T14:30:43.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GetEmp.cshtml",
+              "DocumentMoniker": "D:\\Asp.NetCore\\CurdCoreMultipage\\Views\\Employee\\GetEmp.cshtml",
+              "RelativeDocumentMoniker": "Views\\Employee\\GetEmp.cshtml",
+              "ToolTip": "D:\\Asp.NetCore\\CurdCoreMultipage\\Views\\Employee\\GetEmp.cshtml",
+              "RelativeToolTip": "Views\\Employee\\GetEmp.cshtml",
+              "ViewState": "AgIAAAsAAAAAAAAAAADwvxAAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-06T06:22:47.399Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

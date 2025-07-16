@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\WebApiCoreSwagger8ltm.props" />
+</Project>

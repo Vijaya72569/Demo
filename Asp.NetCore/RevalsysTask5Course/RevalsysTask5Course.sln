@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35219.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RevalsysTask5Course", "RevalsysTask5Course.csproj", "{D1A6242C-8B0F-4501-B6B7-4871D7A483E2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D1A6242C-8B0F-4501-B6B7-4871D7A483E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1A6242C-8B0F-4501-B6B7-4871D7A483E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1A6242C-8B0F-4501-B6B7-4871D7A483E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1A6242C-8B0F-4501-B6B7-4871D7A483E2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {764FAA5E-C674-4DC8-BB1B-8CD5A2620427}
+	EndGlobalSection
+EndGlobal

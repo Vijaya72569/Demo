@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "WZAKomK65HqNlKpfaE5LZECa/aY1oVxLBsMRvkYrcBc=",
+  "Source": "ApiGateWayInteraction",
+  "BasePath": "_content/ApiGateWayInteraction",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

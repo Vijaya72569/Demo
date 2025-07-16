@@ -1,0 +1,8 @@
+{
+  "Routes": [
+    {
+      "DownstreamPathTemplate": "/api/Emp/{everything}",
+      "DownstreamScheme": ""
+    }
+  ]
+}

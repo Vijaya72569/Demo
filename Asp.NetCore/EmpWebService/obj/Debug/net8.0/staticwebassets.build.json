@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "grlZTSIc4Bi4O0fzsoS2R3C7KOHrziu3mlc1nSzQyCk=",
+  "Source": "EmpWebService",
+  "BasePath": "_content/EmpWebService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

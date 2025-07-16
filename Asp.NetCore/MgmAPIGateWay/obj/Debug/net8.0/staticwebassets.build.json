@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "WUync21b5N+3PHezR9bqZENlyV2L+eDtBPN2CONI1rM=",
+  "Source": "MgmAPIGateWay",
+  "BasePath": "_content/MgmAPIGateWay",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

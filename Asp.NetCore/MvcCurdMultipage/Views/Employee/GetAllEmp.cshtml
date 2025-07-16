@@ -1,0 +1,52 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@model IEnumerable<MvcCurdMultipage.Models.EmpModel>;
+<table border="1">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(m=>m.Empid)
+            </th>
+             <th>
+                @Html.DisplayNameFor(m=>m.Ename)
+            </th>
+            <th>
+                @Html.DisplayNameFor(m => m.Email)
+            </th>
+            <th>
+                @Html.DisplayNameFor(m => m.City)
+            </th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach(var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(m=>item.Empid)
+                </td>
+                 <td>
+                    @Html.DisplayFor(m=>item.Ename)
+                </td>
+                <td>
+                    @Html.DisplayFor(m => item.Email)
+                </td>
+                <td>
+                    @Html.DisplayFor(m => item.City)
+                </td>
+                <td>
+                    @Html.ActionLink("Edit" ,"EditEmp", new {id=item.Empid})
+                </td>
+                <td>
+                    @Html.ActionLink("Delete", "DeleteEmp", new { id = item.Empid },
+                    new{onclick="return confirm('Are you sure Delete?')"})
+                </td>
+            </tr>
+        }
+       
+    </tbody>
+</table>

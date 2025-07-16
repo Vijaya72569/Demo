@@ -1,0 +1,54 @@
+﻿@model IEnumerable<RegisterForm.Models.StudentModel>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Register">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+           <th>
+               Sid
+           </th>
+            <th>Name</th>
+             <th>Email</th>
+            <th>Contact</th>
+            <th>Gender</th>
+            <th>Course</th>
+            <th>Hobbies</th>
+            <th>Skills</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+                <td>@item.Sid </td>
+                <td>@item.Name </td>
+                <td>@item.Email </td>
+                <td>@item.ContactNumber </td>
+                <td>@item.Gender</td>
+                <td>@item.Course </td>
+                <td>@string.Join("," , item.Hobbies) </td>
+                <td>@string.Join(",", item.Skills) </td>
+               
+               
+            <td>
+               
+            </td>
+           
+            <td>
+                @Html.ActionLink("Edit", "Update", new {  id=item.Sid  }) |
+                @Html.ActionLink("Details", "Details", new { /* id=item.PrimaryKey */ }) |
+                @Html.ActionLink("Delete", "Delete", new { id=item.Sid },
+                new { onclick= "return confirm('Are You Sure Delete?');"})
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

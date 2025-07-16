@@ -1,0 +1,165 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Asp.NetCore\\RevalsysTask5Course\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D1A6242C-8B0F-4501-B6B7-4871D7A483E2}|RevalsysTask5Course.csproj|d:\\asp.netcore\\revalsystask5course\\models\\coursemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1A6242C-8B0F-4501-B6B7-4871D7A483E2}|RevalsysTask5Course.csproj|solutionrelative:models\\coursemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1A6242C-8B0F-4501-B6B7-4871D7A483E2}|RevalsysTask5Course.csproj|d:\\asp.netcore\\revalsystask5course\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1A6242C-8B0F-4501-B6B7-4871D7A483E2}|RevalsysTask5Course.csproj|solutionrelative:controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1A6242C-8B0F-4501-B6B7-4871D7A483E2}|RevalsysTask5Course.csproj|d:\\asp.netcore\\revalsystask5course\\models\\courserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1A6242C-8B0F-4501-B6B7-4871D7A483E2}|RevalsysTask5Course.csproj|solutionrelative:models\\courserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1A6242C-8B0F-4501-B6B7-4871D7A483E2}|RevalsysTask5Course.csproj|d:\\asp.netcore\\revalsystask5course\\views\\course\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D1A6242C-8B0F-4501-B6B7-4871D7A483E2}|RevalsysTask5Course.csproj|solutionrelative:views\\course\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1A6242C-8B0F-4501-B6B7-4871D7A483E2}|RevalsysTask5Course.csproj|d:\\asp.netcore\\revalsystask5course\\views\\course\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D1A6242C-8B0F-4501-B6B7-4871D7A483E2}|RevalsysTask5Course.csproj|solutionrelative:views\\course\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1A6242C-8B0F-4501-B6B7-4871D7A483E2}|RevalsysTask5Course.csproj|d:\\asp.netcore\\revalsystask5course\\views\\course\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D1A6242C-8B0F-4501-B6B7-4871D7A483E2}|RevalsysTask5Course.csproj|solutionrelative:views\\course\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1A6242C-8B0F-4501-B6B7-4871D7A483E2}|RevalsysTask5Course.csproj|d:\\asp.netcore\\revalsystask5course\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1A6242C-8B0F-4501-B6B7-4871D7A483E2}|RevalsysTask5Course.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1A6242C-8B0F-4501-B6B7-4871D7A483E2}|RevalsysTask5Course.csproj|d:\\asp.netcore\\revalsystask5course\\views\\course\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D1A6242C-8B0F-4501-B6B7-4871D7A483E2}|RevalsysTask5Course.csproj|solutionrelative:views\\course\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1A6242C-8B0F-4501-B6B7-4871D7A483E2}|RevalsysTask5Course.csproj|d:\\asp.netcore\\revalsystask5course\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D1A6242C-8B0F-4501-B6B7-4871D7A483E2}|RevalsysTask5Course.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Asp.NetCore\\RevalsysTask5Course\\Views\\Course\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Course\\Edit.cshtml",
+              "ToolTip": "D:\\Asp.NetCore\\RevalsysTask5Course\\Views\\Course\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Course\\Edit.cshtml",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAACwAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-14T04:57:56.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Asp.NetCore\\RevalsysTask5Course\\Views\\Course\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Course\\Create.cshtml",
+              "ToolTip": "D:\\Asp.NetCore\\RevalsysTask5Course\\Views\\Course\\Create.cshtml",
+              "RelativeToolTip": "Views\\Course\\Create.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACwAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-13T10:18:50.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Asp.NetCore\\RevalsysTask5Course\\Views\\Course\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Course\\Index.cshtml",
+              "ToolTip": "D:\\Asp.NetCore\\RevalsysTask5Course\\Views\\Course\\Index.cshtml",
+              "RelativeToolTip": "Views\\Course\\Index.cshtml",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAADMAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-13T10:14:16.969Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Asp.NetCore\\RevalsysTask5Course\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Asp.NetCore\\RevalsysTask5Course\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAIwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T09:39:43.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CourseRepository.cs",
+              "DocumentMoniker": "D:\\Asp.NetCore\\RevalsysTask5Course\\Models\\CourseRepository.cs",
+              "RelativeDocumentMoniker": "Models\\CourseRepository.cs",
+              "ToolTip": "D:\\Asp.NetCore\\RevalsysTask5Course\\Models\\CourseRepository.cs",
+              "RelativeToolTip": "Models\\CourseRepository.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAwwDgAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T09:51:08.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CourseController.cs",
+              "DocumentMoniker": "D:\\Asp.NetCore\\RevalsysTask5Course\\Controllers\\CourseController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CourseController.cs",
+              "ToolTip": "D:\\Asp.NetCore\\RevalsysTask5Course\\Controllers\\CourseController.cs",
+              "RelativeToolTip": "Controllers\\CourseController.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACUAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T09:49:44.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CourseModel.cs",
+              "DocumentMoniker": "D:\\Asp.NetCore\\RevalsysTask5Course\\Models\\CourseModel.cs",
+              "RelativeDocumentMoniker": "Models\\CourseModel.cs",
+              "ToolTip": "D:\\Asp.NetCore\\RevalsysTask5Course\\Models\\CourseModel.cs",
+              "RelativeToolTip": "Models\\CourseModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T09:43:16.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\Asp.NetCore\\RevalsysTask5Course\\Views\\Course\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Course\\Details.cshtml",
+              "ToolTip": "D:\\Asp.NetCore\\RevalsysTask5Course\\Views\\Course\\Details.cshtml",
+              "RelativeToolTip": "Views\\Course\\Details.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAC0AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-14T05:20:17.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Asp.NetCore\\RevalsysTask5Course\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\Asp.NetCore\\RevalsysTask5Course\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-13T09:39:46.348Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

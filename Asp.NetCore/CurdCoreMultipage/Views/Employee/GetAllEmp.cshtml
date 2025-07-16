@@ -1,0 +1,54 @@
+﻿@model IEnumerable<CurdCoreMultipage.Models.EmpModel>
+
+@{
+    ViewData["Title"] = "GetAllEmp";
+}
+
+<h1>GetAllEmp</h1>
+
+<p>
+    <a asp-action="Insert">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Empid)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Ename)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Email)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.City)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Empid)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Ename)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Email)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.City)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "EditEmp", new { id=item.Empid }) |
+                @Html.ActionLink("Details", "GetEmp", new { id=item.Empid }) |
+                @Html.ActionLink("Delete", "DeleteEmp", new { id=item.Empid},
+                new {onclick="return confirm('Are you sure Delete?')"});
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

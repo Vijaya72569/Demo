@@ -1,0 +1,78 @@
+﻿@model RegisterForm.Models.StudentModel
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h1>Edit</h1>
+
+<h4>StudentModel</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Update" method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+            <div class="form-group">
+                <label asp-for="Name" class="control-label"></label>
+                <input asp-for="Name" class="form-control" />
+                <span asp-validation-for="Name" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Email" class="control-label"></label>
+                <input asp-for="Email" class="form-control" />
+                <span asp-validation-for="Email" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="ContactNumber" class="control-label"></label>
+                <input asp-for="ContactNumber" class="form-control" />
+                <span asp-validation-for="ContactNumber" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label>Gender</label>
+                <input asp-for="Gender" type="radio" value="Male" />Male
+                <input asp-for="Gender" type="radio" value="Female" />Female
+                <span asp-validation-for="Gender" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label class="form-control">Course</label>
+                <select asp-for="Course">
+                    <option value="">--select Course</option>
+                    @foreach (var course in ViewBag.courses as List<string>)
+                    {
+                        <option value="@course">@course</option>
+                    }
+                </select>
+                <span asp-validation-for="Course" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label class="form-control">Hobbies</label>
+                @foreach (var hobby in ViewBag.hobbies as List<string>)
+                {
+                    <label>
+                        <input type="checkbox" name="Hobbies" value="@hobby" @(Model.Hobbies != null && Model.Hobbies.Contains(hobby) ? "checked" : "") /> @hobby
+                    </label>
+                }
+
+            </div>
+            <div class="form-group">
+                <label class="form-control">Skills</label>
+                <select asp-for="Skills" asp-items="new MultiSelectList(ViewBag.skills)" multiple="multiple" size="4"></select>
+
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Update" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

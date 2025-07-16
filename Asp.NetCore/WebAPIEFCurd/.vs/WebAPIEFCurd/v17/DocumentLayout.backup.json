@@ -1,0 +1,136 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Asp.NetCore\\WebAPIEFCurd\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{462C4086-2ED5-4B06-BBF9-4B6A8C7740AD}|WebAPIEFCurd.csproj|d:\\asp.netcore\\webapiefcurd\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{462C4086-2ED5-4B06-BBF9-4B6A8C7740AD}|WebAPIEFCurd.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{462C4086-2ED5-4B06-BBF9-4B6A8C7740AD}|WebAPIEFCurd.csproj|d:\\asp.netcore\\webapiefcurd\\models\\emp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{462C4086-2ED5-4B06-BBF9-4B6A8C7740AD}|WebAPIEFCurd.csproj|solutionrelative:models\\emp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{462C4086-2ED5-4B06-BBF9-4B6A8C7740AD}|WebAPIEFCurd.csproj|d:\\asp.netcore\\webapiefcurd\\models\\empdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{462C4086-2ED5-4B06-BBF9-4B6A8C7740AD}|WebAPIEFCurd.csproj|solutionrelative:models\\empdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{462C4086-2ED5-4B06-BBF9-4B6A8C7740AD}|WebAPIEFCurd.csproj|d:\\asp.netcore\\webapiefcurd\\models\\emprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{462C4086-2ED5-4B06-BBF9-4B6A8C7740AD}|WebAPIEFCurd.csproj|solutionrelative:models\\emprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{462C4086-2ED5-4B06-BBF9-4B6A8C7740AD}|WebAPIEFCurd.csproj|d:\\asp.netcore\\webapiefcurd\\controllers\\empcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{462C4086-2ED5-4B06-BBF9-4B6A8C7740AD}|WebAPIEFCurd.csproj|solutionrelative:controllers\\empcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{462C4086-2ED5-4B06-BBF9-4B6A8C7740AD}|WebAPIEFCurd.csproj|d:\\asp.netcore\\webapiefcurd\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{462C4086-2ED5-4B06-BBF9-4B6A8C7740AD}|WebAPIEFCurd.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{462C4086-2ED5-4B06-BBF9-4B6A8C7740AD}|WebAPIEFCurd.csproj|d:\\asp.netcore\\webapiefcurd\\webapiefcurd.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{462C4086-2ED5-4B06-BBF9-4B6A8C7740AD}|WebAPIEFCurd.csproj|solutionrelative:webapiefcurd.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Asp.NetCore\\WebAPIEFCurd\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Asp.NetCore\\WebAPIEFCurd\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAmwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T10:02:03.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmpController.cs",
+              "DocumentMoniker": "D:\\Asp.NetCore\\WebAPIEFCurd\\Controllers\\EmpController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EmpController.cs",
+              "ToolTip": "D:\\Asp.NetCore\\WebAPIEFCurd\\Controllers\\EmpController.cs",
+              "RelativeToolTip": "Controllers\\EmpController.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAwwDkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T09:42:14.837Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmpRepository.cs",
+              "DocumentMoniker": "D:\\Asp.NetCore\\WebAPIEFCurd\\Models\\EmpRepository.cs",
+              "RelativeDocumentMoniker": "Models\\EmpRepository.cs",
+              "ToolTip": "D:\\Asp.NetCore\\WebAPIEFCurd\\Models\\EmpRepository.cs",
+              "RelativeToolTip": "Models\\EmpRepository.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAmwCMAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T09:33:21.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmpDbContext.cs",
+              "DocumentMoniker": "D:\\Asp.NetCore\\WebAPIEFCurd\\Models\\EmpDbContext.cs",
+              "RelativeDocumentMoniker": "Models\\EmpDbContext.cs",
+              "ToolTip": "D:\\Asp.NetCore\\WebAPIEFCurd\\Models\\EmpDbContext.cs",
+              "RelativeToolTip": "Models\\EmpDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T09:30:55.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Emp.cs",
+              "DocumentMoniker": "D:\\Asp.NetCore\\WebAPIEFCurd\\Models\\Emp.cs",
+              "RelativeDocumentMoniker": "Models\\Emp.cs",
+              "ToolTip": "D:\\Asp.NetCore\\WebAPIEFCurd\\Models\\Emp.cs",
+              "RelativeToolTip": "Models\\Emp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T09:29:04.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WebAPIEFCurd.csproj",
+              "DocumentMoniker": "D:\\Asp.NetCore\\WebAPIEFCurd\\WebAPIEFCurd.csproj",
+              "RelativeDocumentMoniker": "WebAPIEFCurd.csproj",
+              "ToolTip": "D:\\Asp.NetCore\\WebAPIEFCurd\\WebAPIEFCurd.csproj",
+              "RelativeToolTip": "WebAPIEFCurd.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-01T09:28:02.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Asp.NetCore\\WebAPIEFCurd\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\Asp.NetCore\\WebAPIEFCurd\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABrAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-01T09:25:29.105Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

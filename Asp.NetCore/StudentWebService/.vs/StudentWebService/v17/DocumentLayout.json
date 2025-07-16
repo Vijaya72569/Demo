@@ -1,0 +1,136 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Asp.NetCore\\StudentWebService\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7392B9B8-C3BC-4A9D-9139-088F9EE67380}|StudentWebService.csproj|d:\\asp.netcore\\studentwebservice\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7392B9B8-C3BC-4A9D-9139-088F9EE67380}|StudentWebService.csproj|solutionrelative:controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7392B9B8-C3BC-4A9D-9139-088F9EE67380}|StudentWebService.csproj|d:\\asp.netcore\\studentwebservice\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7392B9B8-C3BC-4A9D-9139-088F9EE67380}|StudentWebService.csproj|solutionrelative:models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7392B9B8-C3BC-4A9D-9139-088F9EE67380}|StudentWebService.csproj|d:\\asp.netcore\\studentwebservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7392B9B8-C3BC-4A9D-9139-088F9EE67380}|StudentWebService.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7392B9B8-C3BC-4A9D-9139-088F9EE67380}|StudentWebService.csproj|d:\\asp.netcore\\studentwebservice\\studentwebservice.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{7392B9B8-C3BC-4A9D-9139-088F9EE67380}|StudentWebService.csproj|solutionrelative:studentwebservice.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7392B9B8-C3BC-4A9D-9139-088F9EE67380}|StudentWebService.csproj|d:\\asp.netcore\\studentwebservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7392B9B8-C3BC-4A9D-9139-088F9EE67380}|StudentWebService.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7392B9B8-C3BC-4A9D-9139-088F9EE67380}|StudentWebService.csproj|d:\\asp.netcore\\studentwebservice\\models\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7392B9B8-C3BC-4A9D-9139-088F9EE67380}|StudentWebService.csproj|solutionrelative:models\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7392B9B8-C3BC-4A9D-9139-088F9EE67380}|StudentWebService.csproj|d:\\asp.netcore\\studentwebservice\\models\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7392B9B8-C3BC-4A9D-9139-088F9EE67380}|StudentWebService.csproj|solutionrelative:models\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentWebService.http",
+              "DocumentMoniker": "D:\\Asp.NetCore\\StudentWebService\\StudentWebService.http",
+              "RelativeDocumentMoniker": "StudentWebService.http",
+              "ToolTip": "D:\\Asp.NetCore\\StudentWebService\\StudentWebService.http",
+              "RelativeToolTip": "StudentWebService.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-07-09T06:23:48.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Asp.NetCore\\StudentWebService\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "D:\\Asp.NetCore\\StudentWebService\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAoAAAAAMzMzMzMrwBIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-08T10:13:15.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Asp.NetCore\\StudentWebService\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Asp.NetCore\\StudentWebService\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T10:12:43.809Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "D:\\Asp.NetCore\\StudentWebService\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "Controllers\\StudentController.cs",
+              "ToolTip": "D:\\Asp.NetCore\\StudentWebService\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "Controllers\\StudentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T10:11:18.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "D:\\Asp.NetCore\\StudentWebService\\Models\\StudentService.cs",
+              "RelativeDocumentMoniker": "Models\\StudentService.cs",
+              "ToolTip": "D:\\Asp.NetCore\\StudentWebService\\Models\\StudentService.cs",
+              "RelativeToolTip": "Models\\StudentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T10:08:13.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IStudentService.cs",
+              "DocumentMoniker": "D:\\Asp.NetCore\\StudentWebService\\Models\\IStudentService.cs",
+              "RelativeDocumentMoniker": "Models\\IStudentService.cs",
+              "ToolTip": "D:\\Asp.NetCore\\StudentWebService\\Models\\IStudentService.cs",
+              "RelativeToolTip": "Models\\IStudentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T10:07:37.464Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\Asp.NetCore\\StudentWebService\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "Models\\Student.cs",
+              "ToolTip": "D:\\Asp.NetCore\\StudentWebService\\Models\\Student.cs",
+              "RelativeToolTip": "Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T10:06:36.427Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "0avHe4MciJjXR5XQyZ1ND2Y9EUf3ObvObBhKbouO17o=",
+  "Source": "MSserviceUser",
+  "BasePath": "_content/MSserviceUser",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

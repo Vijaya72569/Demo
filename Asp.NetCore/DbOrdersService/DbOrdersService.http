@@ -1,0 +1,6 @@
+@DbOrdersService_HostAddress = http://localhost:5160
+
+GET {{DbOrdersService_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

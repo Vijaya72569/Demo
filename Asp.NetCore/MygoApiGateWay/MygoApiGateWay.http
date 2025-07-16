@@ -1,0 +1,6 @@
+@MygoApiGateWay_HostAddress = http://localhost:5067
+
+GET {{MygoApiGateWay_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

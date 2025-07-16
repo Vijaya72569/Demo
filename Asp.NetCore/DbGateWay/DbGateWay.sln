@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35219.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DbGateWay", "DbGateWay.csproj", "{65836EB7-36F0-4B8A-8D48-CA215273B816}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{65836EB7-36F0-4B8A-8D48-CA215273B816}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65836EB7-36F0-4B8A-8D48-CA215273B816}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65836EB7-36F0-4B8A-8D48-CA215273B816}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65836EB7-36F0-4B8A-8D48-CA215273B816}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {588302F8-AA2C-4D47-856C-043E4A6D1EAB}
+	EndGlobalSection
+EndGlobal

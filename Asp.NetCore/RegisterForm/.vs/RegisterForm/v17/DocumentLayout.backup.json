@@ -1,0 +1,154 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Asp.NetCore\\RegisterForm\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A6C7A349-EE8A-4E03-8C8C-0241C8674AA0}|RegisterForm.csproj|d:\\asp.netcore\\registerform\\models\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6C7A349-EE8A-4E03-8C8C-0241C8674AA0}|RegisterForm.csproj|solutionrelative:models\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6C7A349-EE8A-4E03-8C8C-0241C8674AA0}|RegisterForm.csproj|d:\\asp.netcore\\registerform\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6C7A349-EE8A-4E03-8C8C-0241C8674AA0}|RegisterForm.csproj|solutionrelative:controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6C7A349-EE8A-4E03-8C8C-0241C8674AA0}|RegisterForm.csproj|d:\\asp.netcore\\registerform\\views\\student\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A6C7A349-EE8A-4E03-8C8C-0241C8674AA0}|RegisterForm.csproj|solutionrelative:views\\student\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6C7A349-EE8A-4E03-8C8C-0241C8674AA0}|RegisterForm.csproj|d:\\asp.netcore\\registerform\\views\\student\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A6C7A349-EE8A-4E03-8C8C-0241C8674AA0}|RegisterForm.csproj|solutionrelative:views\\student\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6C7A349-EE8A-4E03-8C8C-0241C8674AA0}|RegisterForm.csproj|d:\\asp.netcore\\registerform\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A6C7A349-EE8A-4E03-8C8C-0241C8674AA0}|RegisterForm.csproj|solutionrelative:views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6C7A349-EE8A-4E03-8C8C-0241C8674AA0}|RegisterForm.csproj|d:\\asp.netcore\\registerform\\models\\studentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6C7A349-EE8A-4E03-8C8C-0241C8674AA0}|RegisterForm.csproj|solutionrelative:models\\studentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6C7A349-EE8A-4E03-8C8C-0241C8674AA0}|RegisterForm.csproj|d:\\asp.netcore\\registerform\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6C7A349-EE8A-4E03-8C8C-0241C8674AA0}|RegisterForm.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6C7A349-EE8A-4E03-8C8C-0241C8674AA0}|RegisterForm.csproj|d:\\asp.netcore\\registerform\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A6C7A349-EE8A-4E03-8C8C-0241C8674AA0}|RegisterForm.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "D:\\Asp.NetCore\\RegisterForm\\Views\\Student\\Update.cshtml",
+              "RelativeDocumentMoniker": "Views\\Student\\Update.cshtml",
+              "ToolTip": "D:\\Asp.NetCore\\RegisterForm\\Views\\Student\\Update.cshtml",
+              "RelativeToolTip": "Views\\Student\\Update.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAWwCgAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-22T06:04:07.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Asp.NetCore\\RegisterForm\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Asp.NetCore\\RegisterForm\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T11:03:49.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Asp.NetCore\\RegisterForm\\Views\\Student\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Student\\Index.cshtml",
+              "ToolTip": "D:\\Asp.NetCore\\RegisterForm\\Views\\Student\\Index.cshtml",
+              "RelativeToolTip": "Views\\Student\\Index.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAADwvy0AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-20T10:52:28.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "D:\\Asp.NetCore\\RegisterForm\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "Controllers\\StudentController.cs",
+              "ToolTip": "D:\\Asp.NetCore\\RegisterForm\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "Controllers\\StudentController.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAswD8AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T10:28:49.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentRepository.cs",
+              "DocumentMoniker": "D:\\Asp.NetCore\\RegisterForm\\Models\\StudentRepository.cs",
+              "RelativeDocumentMoniker": "Models\\StudentRepository.cs",
+              "ToolTip": "D:\\Asp.NetCore\\RegisterForm\\Models\\StudentRepository.cs",
+              "RelativeToolTip": "Models\\StudentRepository.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAD4v1YAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T10:14:39.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StudentModel.cs",
+              "DocumentMoniker": "D:\\Asp.NetCore\\RegisterForm\\Models\\StudentModel.cs",
+              "RelativeDocumentMoniker": "Models\\StudentModel.cs",
+              "ToolTip": "D:\\Asp.NetCore\\RegisterForm\\Models\\StudentModel.cs",
+              "RelativeToolTip": "Models\\StudentModel.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAgwBEAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T09:50:58.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Asp.NetCore\\RegisterForm\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\Asp.NetCore\\RegisterForm\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-20T09:49:26.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "D:\\Asp.NetCore\\RegisterForm\\Views\\Student\\Register.cshtml",
+              "RelativeDocumentMoniker": "Views\\Student\\Register.cshtml",
+              "ToolTip": "D:\\Asp.NetCore\\RegisterForm\\Views\\Student\\Register.cshtml",
+              "RelativeToolTip": "Views\\Student\\Register.cshtml",
+              "ViewState": "AgIAACwAAAAAAAAAAAAYwEwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-20T11:29:39.724Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,151 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Asp.NetCore\\TaskCurdNetCore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B10FFA9C-7A8E-4D5A-8671-CD4D286C3757}|TaskCurdNetCore.csproj|d:\\asp.netcore\\taskcurdnetcore\\models\\empmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B10FFA9C-7A8E-4D5A-8671-CD4D286C3757}|TaskCurdNetCore.csproj|solutionrelative:models\\empmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B10FFA9C-7A8E-4D5A-8671-CD4D286C3757}|TaskCurdNetCore.csproj|d:\\asp.netcore\\taskcurdnetcore\\controllers\\empcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B10FFA9C-7A8E-4D5A-8671-CD4D286C3757}|TaskCurdNetCore.csproj|solutionrelative:controllers\\empcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B10FFA9C-7A8E-4D5A-8671-CD4D286C3757}|TaskCurdNetCore.csproj|d:\\asp.netcore\\taskcurdnetcore\\views\\emp\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B10FFA9C-7A8E-4D5A-8671-CD4D286C3757}|TaskCurdNetCore.csproj|solutionrelative:views\\emp\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B10FFA9C-7A8E-4D5A-8671-CD4D286C3757}|TaskCurdNetCore.csproj|d:\\asp.netcore\\taskcurdnetcore\\views\\emp\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B10FFA9C-7A8E-4D5A-8671-CD4D286C3757}|TaskCurdNetCore.csproj|solutionrelative:views\\emp\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B10FFA9C-7A8E-4D5A-8671-CD4D286C3757}|TaskCurdNetCore.csproj|d:\\asp.netcore\\taskcurdnetcore\\views\\emp\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B10FFA9C-7A8E-4D5A-8671-CD4D286C3757}|TaskCurdNetCore.csproj|solutionrelative:views\\emp\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B10FFA9C-7A8E-4D5A-8671-CD4D286C3757}|TaskCurdNetCore.csproj|d:\\asp.netcore\\taskcurdnetcore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B10FFA9C-7A8E-4D5A-8671-CD4D286C3757}|TaskCurdNetCore.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B10FFA9C-7A8E-4D5A-8671-CD4D286C3757}|TaskCurdNetCore.csproj|d:\\asp.netcore\\taskcurdnetcore\\models\\emprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B10FFA9C-7A8E-4D5A-8671-CD4D286C3757}|TaskCurdNetCore.csproj|solutionrelative:models\\emprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B10FFA9C-7A8E-4D5A-8671-CD4D286C3757}|TaskCurdNetCore.csproj|d:\\asp.netcore\\taskcurdnetcore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B10FFA9C-7A8E-4D5A-8671-CD4D286C3757}|TaskCurdNetCore.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Asp.NetCore\\TaskCurdNetCore\\Views\\Emp\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Emp\\Edit.cshtml",
+              "ToolTip": "D:\\Asp.NetCore\\TaskCurdNetCore\\Views\\Emp\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Emp\\Edit.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAmwC0AAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-14T11:46:18.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Asp.NetCore\\TaskCurdNetCore\\Views\\Emp\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Emp\\Create.cshtml",
+              "ToolTip": "D:\\Asp.NetCore\\TaskCurdNetCore\\Views\\Emp\\Create.cshtml",
+              "RelativeToolTip": "Views\\Emp\\Create.cshtml",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAmwCwAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-14T11:40:09.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Asp.NetCore\\TaskCurdNetCore\\Views\\Emp\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Emp\\Index.cshtml",
+              "ToolTip": "D:\\Asp.NetCore\\TaskCurdNetCore\\Views\\Emp\\Index.cshtml",
+              "RelativeToolTip": "Views\\Emp\\Index.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAADAAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-14T11:37:16.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Asp.NetCore\\TaskCurdNetCore\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Asp.NetCore\\TaskCurdNetCore\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T11:35:49.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmpController.cs",
+              "DocumentMoniker": "D:\\Asp.NetCore\\TaskCurdNetCore\\Controllers\\EmpController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EmpController.cs",
+              "ToolTip": "D:\\Asp.NetCore\\TaskCurdNetCore\\Controllers\\EmpController.cs",
+              "RelativeToolTip": "Controllers\\EmpController.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAABQAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T11:34:06.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EmpRepository.cs",
+              "DocumentMoniker": "D:\\Asp.NetCore\\TaskCurdNetCore\\Models\\EmpRepository.cs",
+              "RelativeDocumentMoniker": "Models\\EmpRepository.cs",
+              "ToolTip": "D:\\Asp.NetCore\\TaskCurdNetCore\\Models\\EmpRepository.cs",
+              "RelativeToolTip": "Models\\EmpRepository.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAiwEQAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T11:17:15.526Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmpModel.cs",
+              "DocumentMoniker": "D:\\Asp.NetCore\\TaskCurdNetCore\\Models\\EmpModel.cs",
+              "RelativeDocumentMoniker": "Models\\EmpModel.cs",
+              "ToolTip": "D:\\Asp.NetCore\\TaskCurdNetCore\\Models\\EmpModel.cs",
+              "RelativeToolTip": "Models\\EmpModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T11:10:54.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Asp.NetCore\\TaskCurdNetCore\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\Asp.NetCore\\TaskCurdNetCore\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-14T11:09:20.794Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

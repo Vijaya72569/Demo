@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "yED4TxGHpshxAfP5V2/eLgiSov7CpXLvhvGti+QPm+M=",
+  "Source": "MygoApiGateWay",
+  "BasePath": "_content/MygoApiGateWay",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

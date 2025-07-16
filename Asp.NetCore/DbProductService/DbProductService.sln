@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35219.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DbProductService", "DbProductService.csproj", "{A303F946-F676-4608-9930-21F1A91A073F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A303F946-F676-4608-9930-21F1A91A073F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A303F946-F676-4608-9930-21F1A91A073F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A303F946-F676-4608-9930-21F1A91A073F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A303F946-F676-4608-9930-21F1A91A073F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B7C0B975-F7B6-453B-953C-E7E55806E1DB}
+	EndGlobalSection
+EndGlobal

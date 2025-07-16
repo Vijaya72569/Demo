@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "sw3zp4WGPuAx5FzbO3Tf/bPJ7rkVlVJONcS66LAPP+I=",
+  "Source": "MgmGateWayApiService",
+  "BasePath": "_content/MgmGateWayApiService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

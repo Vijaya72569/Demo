@@ -1,0 +1,6 @@
+@MgmAPIGateWay_HostAddress = http://localhost:5124
+
+GET {{MgmAPIGateWay_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

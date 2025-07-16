@@ -1,0 +1,88 @@
+﻿@model RevalsysTask4.Models.EmpModel
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Create</h1>
+
+<h4>EmpModel</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create" method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            
+            <div class="form-group">
+                <label asp-for="FirstName" class="control-label"></label>
+                <input asp-for="FirstName" class="form-control" />
+                <span asp-validation-for="FirstName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Email" class="control-label"></label>
+                <input asp-for="Email" class="form-control" />
+                <span asp-validation-for="Email" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Mobile" class="control-label"></label>
+                <input asp-for="Mobile" class="form-control" />
+                <span asp-validation-for="Mobile" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="CountryId" class="control-label"></label>
+                <select asp-for="CountryId" asp-items="Model.Countries" id="CountryId" >
+                <option value="">--Select Country--</option>
+                </select>
+                    @* <span asp-validation-for="CountryId" class="text-danger"></span> *@
+            </div>
+            <div class="form-group">
+                <label asp-for="StateId" class="control-label"></label>
+                <select asp-for="StateId" asp-items="Model.States" id="StateId" >
+                   <option value="">--Select State--</option>
+                   </select>
+              @*   <span asp-validation-for="StateId" class="text-danger"></span> *@
+            </div>
+          @*   <div class="form-group">
+                <label asp-for="CountryName" class="control-label"></label>
+                <input asp-for="CountryName" class="form-control" />
+                <span asp-validation-for="CountryName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="StateName" class="control-label"></label>
+                <input asp-for="StateName" class="form-control" />
+                <span asp-validation-for="StateName" class="text-danger"></span>
+            </div> *@
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+    <script>
+        $(document).ready(function () {
+            $('#CountryId').change(function () {
+                var countryId = $(this).val();
+                if (countryId) {
+                    $.getJSON('/Emp/GetStateByCountry?countryId=' + countryId, function (data) {
+                        var items = '<option value="">--select state--</option>';
+                        $.each(data, function (index, state) {
+                            items += '<option value="' + state.value+'">' + state.text + '</option>';
+                        });
+                        $('#StateId').html(items);
+                    });
+                }
+                else {
+                    $('#StateId').html('<option value="">--select state--</option>');
+                }
+            });
+        });
+        
+    </script>
+}

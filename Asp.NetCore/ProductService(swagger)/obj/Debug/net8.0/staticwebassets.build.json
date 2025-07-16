@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "XVWHejoBhuJeormpaZO0ytcmJj/keUKXYBcCnOWJI6A=",
+  "Source": "ProductService(swagger)",
+  "BasePath": "_content/ProductService(swagger)",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

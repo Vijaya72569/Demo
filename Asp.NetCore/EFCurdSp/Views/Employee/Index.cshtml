@@ -1,0 +1,45 @@
+﻿@model List<EFCurdSp.Models.Employee>;
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    var EditEmp = ViewBag.Editemp as EFCurdSp.Models.Employee;
+}
+<h1>Employee Management</h1>
+<form asp-action="Save" method="post">
+    <input type="hidden" name="Eid" value="@EditEmp.EId" /><br />
+    <label>Ename</label>
+    <input type="text" name="Name" value="@EditEmp.Name" /> <br />
+    <label>Salary</label>
+    <input type="text" name="Salary" value="@EditEmp.Salary" /> <br />
+    <button type="submit">@((EditEmp.EId==0) ? "Add" : "Update")</button>
+
+
+</form>
+<hr />
+<table border="1">
+    <thead>
+        <tr>
+            <th>Eid</th>
+             <th>EName</th>
+            <th>Salary</th>
+            <th colspan="2"> Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var emp in Model)
+        {
+            <tr>
+                <td>@emp.EId</td>
+                  <td>@emp.Name</td>
+                <td>@emp.Salary</td>
+                <td>
+                    <a asp-action="Delete" asp-route-id="@emp.EId" onclick="return confirm('Are you sure want to delete?')">Delete</a>
+                </td>
+                <td>
+                    <a asp-action="Index" asp-route-editid="@emp.EId">Edit</a>
+                </td>
+        </tr>
+        }
+    </tbody>
+</table>
